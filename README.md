@@ -1,2 +1,2 @@
-# portfolio
-Blog
+# Personal Portfolio
+GitHub Page
